@@ -44,7 +44,7 @@ public class MainWindow {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
-		JButton btnHej = new JButton("Hej :)");
+		JButton btnHej = new JButton("Hej cvbcvb:)");
 		btnHej.addActionListener(new ActionListener() 
 		{
 			public void actionPerformed(ActionEvent arg0) 
