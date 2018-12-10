@@ -49,7 +49,7 @@ public class MainWindow {
 		{
 			public void actionPerformed(ActionEvent arg0) 
 			{
-				JOptionPane.showMessageDialog(frame, "Hej! :)");
+				JOptionPane.showMessageDialog(frame, "Hej! :) pozdrav iz ucionice");
 			}
 		});
 		btnHej.setBounds(153, 114, 89, 23);
